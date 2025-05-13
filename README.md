@@ -2,7 +2,7 @@
 
 Full Stack Assignment
 
-Welcome to the Full Stack Assignment Project. This application a simple message box template created by using HTML, CSS, Javascript and PHP for backend development.
+Welcome to the Full Stack Assignment Project. This application contains a simple message box template created by using HTML, CSS, Javascript and PHP for backend development.
 
 How to run the project locally
 1. Install XAMPP
